@@ -1,0 +1,128 @@
+.page{
+    background-image: url('/Users/rahuldara/Desktop/hotornot/hotornot/src/back.jpeg');
+   
+    background-position: center;
+    position:absolute;
+   
+    width:1440px;
+    height: 832px;
+    background-size: cover;
+    overflow: hidden;
+    top: 74px;
+    left: 52px;
+    gap: 0px;
+    opacity: 0px;
+    top: 0px;
+    left: 0px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  
+.main{
+   
+    position:absolute;
+    width: 1165px;
+    height: 684px;
+    top: 74px;
+    left: 132px;
+    gap: 0px;
+    opacity: 0px;
+
+    
+    background-color: #00000066;
+}
+.btn1{
+    position: relative;
+    font-family: Marmalede;
+font-size: 30px;
+font-weight: 400;
+line-height: 47.5px;
+text-align:center ;
+
+    width: 370px;
+height: 109px;
+top: px;
+left: 200px;
+margin-right: 60px;
+
+border-radius: 20px;
+opacity: 0px;
+background: linear-gradient(180deg, #FD246B 0%, #8D1B3C 100%);
+color: white;
+cursor: pointer;
+
+}
+.btn2{
+    position: relative;
+    font-family: Marmalede;
+
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 47.5px;
+    text-align:center ;
+    
+        width: 370px;
+    height: 109px;
+    top: px;
+    left: 230px;
+    
+    
+    border-radius: 20px;
+    opacity: 0px;
+    background: linear-gradient(180deg, #F500AD 0%, #4EDE31 0%, #C91204 0.01%, #EB613A 100%);
+    color: white;
+    cursor: pointer;
+ 
+    
+}
+#leaderboardlist{
+    position: relative;
+    left:370px;
+    top:30px;
+    width: 384px;
+    height: 57px;
+
+    
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    background: linear-gradient(180deg, #FD256A 0%, #E83B35 100%);
+    border: 2px solid #FFFFFF  ;
+    font-size: 20px;
+    color:white;  
+}
+#leaderboard{
+    position: relative;
+    left:px;
+    width: 384px;
+}
+#lword{
+   
+    position: relative;
+    left: 110px;
+    top:10px;
+    margin-top: 10px;
+    width: 1012px;
+height: 56px;
+
+
+gap: 0px;
+
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+background: linear-gradient(180deg, #FE4D09 0%, #ED9531 100%);
+font-family: Mostin;
+font-size: 40px;
+font-weight: 900;
+line-height: 48px;
+
+
+}
+#logo{ position: relative;
+    left:430px;
+    font-size: 38px;
+    position: relative;
+    top: -10px;
+    font-weight: 900;
+    color: white;
+}
